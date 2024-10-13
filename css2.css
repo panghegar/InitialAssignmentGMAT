@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.containerName {
+    width: auto;
+    height: auto;
+    background-color: black;
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 1rem;
+    color: white;
+}
+
+.judul, .preCourse, .Chorus2 {
+    text-align: center;
+}
+
+.verse1, .verse2{
+    justify-content: start;
+}
+
+.chours{
+    text-align: end;
+    margin-left: 500px;
+}
